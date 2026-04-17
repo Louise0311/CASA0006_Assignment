@@ -1,2 +1,3 @@
 # CASA0006_Assignment
-include some datas and the final results of this research
+
+This repository was created for the CASA0006 course assignment and contains LSOA-level crime, population, and deprivation index data.
